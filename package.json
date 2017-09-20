@@ -1,18 +1,10 @@
 {
   "name": "stompjs",
-  "version": "2.3.4-next",
-  "author": "Jeff Mesnil <jmesnil@gmail.com>",
-  "description": "STOMP for JavaScript apps (Web browser & node.js)",
-  "scripts": {
-    "build": "cake build",
-    "test": "coffeelint -f coffeelint.json -r src && cake test"
-  },
+  "version": "2.3.5",
+  "author": "Acans angrycans@gmail.com",
+  "description": "STOMP for JavaScript apps for react-native",
+  "scripts": {},
   "devDependencies": {
-    "coffee-script": "latest",
-    "coffeelint": "latest",
-    "jasmine-node": "latest",
-    "uglify-js": "latest",
-    "docco": "latest",
     "connect": "latest"
   },
   "optionalDependencies": {
@@ -25,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmesnil/stomp-websocket"
+    "url": "https://github.com/angrycans/stomp-websocket-js"
   },
   "keywords": [
     "STOMP",
@@ -35,6 +27,6 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/jmesnil/stomp-websocket/issues"
+    "url": "https://github.com/angrycans/stomp-websocket-js/issues"
   }
 }
