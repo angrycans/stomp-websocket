@@ -1,5 +1,5 @@
 {
-  "name": "stompjs",
+  "name": "stomp-websocket-js",
   "version": "2.3.5",
   "author": "Acans angrycans@gmail.com",
   "description": "STOMP for JavaScript apps for react-native",
